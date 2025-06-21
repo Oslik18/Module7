@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 276432e9dda797246af993f6ef6d0c80
+timeCreated: 1490772948
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83776
+  packageName: Tidy Clipboard - Game GUI
+  packageVersion: 1.0
+  assetPath: Assets/Tidy Clipboard/PreviewScene.unity
+  uploadId: 170394
